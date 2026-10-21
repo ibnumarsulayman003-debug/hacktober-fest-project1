@@ -1,0 +1,6 @@
+{
+  "name": "NourishTrack",
+  "description": "Smart nutrition and wellness tracking with evidence-based insights, Nigerian and global food datasets, and personalized guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
